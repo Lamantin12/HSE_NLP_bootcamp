@@ -52,6 +52,8 @@
 
 
 ## TODO
+* **Attention**
+  max_sequence_length may not be same for datasets
 * For preprocessing:
   1) Delete punctuation signs
   2) Try with/without stemming(don't like it)
@@ -59,6 +61,10 @@
 * For models:  
   1) Try predicting logarythms
   2) Try pretrained embeddings
-
+ 
 * For beauty:  
   1) Put all classes as well as functions in helper.py
+
+
+## Ideas:
+1) Try Conv text, then concat with other data and few linears then

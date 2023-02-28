@@ -5,4 +5,4 @@ data/
 download.py
 model_storage/
 *.zip
-*.bin
+*.bin*
