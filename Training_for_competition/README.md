@@ -59,4 +59,6 @@
 * For models:  
   1) Try predicting logarythms
   2) Try pretrained embeddings
-  3) 
+
+* For beauty:  
+  1) Put all classes as well as functions in helper.py
