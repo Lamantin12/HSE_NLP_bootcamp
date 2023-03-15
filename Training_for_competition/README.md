@@ -68,3 +68,5 @@
 
 ## Ideas:
 1) Try Conv text, then concat with other data and few linears then
+2) Try w2v key_skills, kluster them and divide
+3) Create json of translated sentences to vectors

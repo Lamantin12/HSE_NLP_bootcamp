@@ -6,3 +6,8 @@ download.py
 model_storage/
 *.zip
 *.bin*
+*catboost_info*/
+*Catboost_stable*
+*Catboost_tuning*
+*notebook6dd9c0405c*
+*PytorchTry*
